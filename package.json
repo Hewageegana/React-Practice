@@ -1,0 +1,19 @@
+{
+  "name": "React-Practice",
+  "version": "1.0.0",
+  "description": "Library Management System",
+  "main": "index.js",
+  "repository": "https://github.com/Hewageegana/React-Practice.git",
+  "author": "“rusiru2000hewageegana@gmail.com” <rusiru2000hewageegana@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "nodemon --exec babel-node src/app.js"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.9",
+    "@babel/node": "^7.16.8",
+    "@babel/preset-env": "^7.16.11",
+    "nodemon": "^2.0.15"
+  }
+}
